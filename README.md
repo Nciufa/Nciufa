@@ -1,4 +1,4 @@
-# 🧑‍💻 Portfólio de Estudos | Natália Kobayashi
+# 🧑‍💻 Portfólio de Estudos | Natália Kobayashi (*em construção)
 
 Bem-vindo ao meu repositório! 
 Aqui você encontrará os códigos, exercícios e projetos de estudo realizados durante meu bootcamp de Data Analytics da **WoMakersCode**, onde estou desenvolvendo habilidades em programação e ciência de dados.
